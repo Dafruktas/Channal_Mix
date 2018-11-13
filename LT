@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,LTN: Kanal 2
+http://xxultraxx.com:8000/live/sumsum/sumsum/10140.ts
+#EXTINF:0,LTN: Lietuvos Rytas
+http://xxultraxx.com:8000/live/sumsum/sumsum/10136.ts
+#EXTINF:0,LTN: LRT Televizija
+http://xxultraxx.com:8000/live/sumsum/sumsum/10135.ts
+#EXTINF:0,LTN: TV 3
+http://xxultraxx.com:8000/live/sumsum/sumsum/10139.ts
+#EXTINF:0,LTN: TV 6
+http://xxultraxx.com:8000/live/sumsum/sumsum/10138.ts
+#EXTINF:0,LTN: TV 8
+http://xxultraxx.com:8000/live/sumsum/sumsum/10137.ts
+#EXTINF:0,LTN: TV1
+http://xxultraxx.com:8000/live/sumsum/sumsum/10141.ts
+#EXTINF:0,LTV: LNK
+http://xxultraxx.com:8000/live/sumsum/sumsum/10142.ts
+#EXTINF:0,LTV: LTV1
+http://xxultraxx.com:8000/live/sumsum/sumsum/10147.ts
+#EXTINF:0,LTV: LTV7
+http://xxultraxx.com:8000/live/sumsum/sumsum/10143.ts
+#EXTINF:0,LTV: TV 6
+http://xxultraxx.com:8000/live/sumsum/sumsum/10144.ts
+#EXTINF:0,LTV: TV3 LTV
+http://xxultraxx.com:8000/live/sumsum/sumsum/10146.ts
+#EXTINF:0,LTV: TV3 Plus
+http://xxultraxx.com:8000/live/sumsum/sumsum/10145.ts
