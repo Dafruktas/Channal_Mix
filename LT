@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:0,LTN: Kanal 2
-http://xxultraxx.com:8000/live/sumsum/sumsum/10140.ts
-#EXTINF:0,LTN: Lietuvos Rytas
-http://xxultraxx.com:8000/live/sumsum/sumsum/10136.ts
+#EXTINF:0,====== Lithuania =======
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/6277.ts
+#EXTINF:0,LTN: LNK
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15876.ts
 #EXTINF:0,LTN: LRT Televizija
-http://xxultraxx.com:8000/live/sumsum/sumsum/10135.ts
-#EXTINF:0,LTN: TV 3
-http://xxultraxx.com:8000/live/sumsum/sumsum/10139.ts
-#EXTINF:0,LTN: TV 6
-http://xxultraxx.com:8000/live/sumsum/sumsum/10138.ts
-#EXTINF:0,LTN: TV 8
-http://xxultraxx.com:8000/live/sumsum/sumsum/10137.ts
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15873.ts
+#EXTINF:0,LTN: LTV1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15879.ts
 #EXTINF:0,LTN: TV1
-http://xxultraxx.com:8000/live/sumsum/sumsum/10141.ts
-#EXTINF:0,LTV: LNK
-http://xxultraxx.com:8000/live/sumsum/sumsum/10142.ts
-#EXTINF:0,LTV: LTV1
-http://xxultraxx.com:8000/live/sumsum/sumsum/10147.ts
-#EXTINF:0,LTV: LTV7
-http://xxultraxx.com:8000/live/sumsum/sumsum/10143.ts
-#EXTINF:0,LTV: TV 6
-http://xxultraxx.com:8000/live/sumsum/sumsum/10144.ts
-#EXTINF:0,LTV: TV3 LTV
-http://xxultraxx.com:8000/live/sumsum/sumsum/10146.ts
-#EXTINF:0,LTV: TV3 Plus
-http://xxultraxx.com:8000/live/sumsum/sumsum/10145.ts
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15875.ts
+#EXTINF:0,LTN: Kanal 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15874.ts
+#EXTINF:0,LTN: TV3 LTV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15878.ts
+#EXTINF:0,LTN: TV6
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28780.ts
+#EXTINF:0,LTN: LTV7
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15877.ts
+#EXTINF:0,LTN: TV8
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28781.ts
+#EXTINF:0,LTN: BTV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28778.ts
+#EXTINF:0,LTN: Lietuvos Rytas
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28779.ts
+#EXTINF:0,LTN: Liuks
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28776.ts
+#EXTINF:0,LTN: Info TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28777.ts
